@@ -1,3 +1,5 @@
+package datacleaning;
+
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -27,7 +29,7 @@ public class Merge {
 					// use comma as separator
 					
 					String[] cols = line.split(",");
-					if(cols[0].equals("fullname")&&cols[1].equals("gender")&&cols[2].equals("country")) continue;
+					//if(cols[0].equals("fullname")&&cols[1].equals("gender")&&cols[2].equals("country")) continue;
 					person.add(new Person(cols[0],cols[1],cols[2]));
 					
 					//For merging the final csv's
@@ -44,7 +46,7 @@ public class Merge {
 					person.add(new Person(cols[18], "F", cols[6]));*/
 				}
 			}  catch (Exception e) {
-				//System.out.println("Wohoo " + count);
+				System.out.println("Wohoo " + count);
 			}
 			FileWriter fileWriter = null;
 

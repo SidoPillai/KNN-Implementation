@@ -10,8 +10,10 @@ import java.util.Scanner;
 
 public class FilterSCV {
 	
-	public static String testFile="test.csv";
-	public static String trainFile="train.csv";
+	public static String testFileFirstName="testfirst.csv";
+	public static String trainFileFirstName="trainfirst.csv";
+	public static String testFileLastName="testlast.csv";
+	public static String trainFileLastName="trainlast.csv";
 	public String header;
 
 	private ArrayList<Row> readFile(String filename) throws FileNotFoundException{
@@ -31,7 +33,7 @@ public class FilterSCV {
 	}
 	
 	
-	private void writeFile(String filename, ArrayList<Row> data) throws IOException{
+	private void writeFile(String filename, ArrayList<Row> data, boolean firstName) throws IOException{
 		
 		File file = new File(filename);
 		
@@ -42,7 +44,12 @@ public class FilterSCV {
 		PrintWriter out = new PrintWriter(file);
 		out.println(header);
 		for(Row r : data){
-			out.println(r.getCSV());
+			
+			if(firstName){
+				out.println(r.getFirstCSV());				
+			}else{
+				out.println(r.getLastCSV());
+			}
 		}
 		
 		out.close();
@@ -64,8 +71,11 @@ public class FilterSCV {
 			test.add(rows.get(i));
 		}
 		
-		writeFile(testFile, test);
-		writeFile(trainFile, train);
+		writeFile(testFileFirstName, test, true);
+		writeFile(testFileLastName, test, false);
+		
+		writeFile(trainFileFirstName, train, true);
+		writeFile(trainFileLastName, train, false);
 	}
 	
 	public void algo(String filename, double training) throws IOException{

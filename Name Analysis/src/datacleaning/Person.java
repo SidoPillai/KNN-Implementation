@@ -1,3 +1,5 @@
+package datacleaning;
+
 public class Person {
 
 	String fullName;

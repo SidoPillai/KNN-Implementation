@@ -16,8 +16,6 @@ public class Neighbor implements Comparable<Neighbor>{
 		
 	}
 	
-	
-	
 	@Override
 	public int compareTo(Neighbor o) {
 		return o.diceValue.compareTo(this.diceValue);

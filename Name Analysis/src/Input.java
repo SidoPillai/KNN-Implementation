@@ -118,7 +118,7 @@ public class Input {
 	private int computeHighestVote(int[] countCountry) {
 		int index = -1;
 		Random random = new Random();
-		int max = 0;
+		int max = -1;
 		for (int i = 0; i < countCountry.length; i++) {
 			if (countCountry[i] > max) {
 				max = countCountry[i];
