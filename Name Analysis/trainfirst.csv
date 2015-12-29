@@ -32,7 +32,7 @@ Leokadia,F, Poland
 Pieter,M, Netherlands
 Jan,M, Netherlands
 Rosalia,F,Poland
-Stanisław,M, Lublin
+Stanisław,M, Poland
 Gerrit,M, Netherlands
 Violet,U,Ireland
 Maria,F, Netherlands
@@ -65,7 +65,7 @@ Alida,F, Netherlands
 Hendrika,F, Netherlands
 Cornelis,M, Netherlands
 Teresa,U,Ireland
-Tadeusz,M, Lublin
+Tadeusz,M, Poland
 Józef,M, Poland
 Willem,M, Netherlands
 Hugh,U,Ireland
@@ -83,7 +83,7 @@ Franciszka,F, Poland
 Marinua,M, Netherlands
 Jacobus,M, Netherlands
 Samuel,U,Ireland
-Róża,F, Lublin
+Róża,F, Poland
 Henderika,F, Netherlands
 Maria,F, Netherlands
 Władysława,F, Poland
@@ -143,7 +143,7 @@ Agatha,F, Netherlands
 Maria,F, Netherlands
 Arie,M, Netherlands
 Josephus,M,Poland
-Kazimiera,F, Lublin
+Kazimiera,F, Poland
 Ada,F, Netherlands
 Jacoba,F, Netherlands
 Agata,F, Poland
@@ -454,7 +454,7 @@ Mary,U,Ireland
 Agnieszka,F, Poland
 James,U,Ireland
 Sije,M, Netherlands
-Honorata,F, Lublin
+Honorata,F, Poland
 James,U,Ireland
 Paweł,M, Poland
 Geusje,F, Netherlands
@@ -487,7 +487,7 @@ Bastiaan,M, Netherlands
 Mateusz,M, Poland
 Anna,F, Poland
 Theodor,M, Netherlands
-Kamilla,F, Lublin
+Kamilla,F, Poland
 Hendricus,M, Netherlands
 Maria,F, Netherlands
 Mozes,M, Netherlands
@@ -720,9 +720,8 @@ Henri,M, Netherlands
 Maria,F, Netherlands
 Martha,U,Ireland
 Trijntje,F, Netherlands
-,U, Poland
 Leendert,M, Netherlands
-Jan,M, Lublin
+Jan,M, Poland
 Guiseppe,U,Ireland
 Cornelia,F, Netherlands
 Selma,F, Netherlands
@@ -753,7 +752,6 @@ Abraham,M, Netherlands
 Henry,U,Ireland
 Evert,M, Netherlands
 Genovefa,F,Poland
-,U, Poland
 J�zef,M, Poland
 Rose,U,Ireland
 Ultan,U,Ireland
@@ -804,7 +802,7 @@ Karel,M, Netherlands
 John,U,Ireland
 Gijsbertus,M, Netherlands
 Wilhelmina,F, Netherlands
-Janina,F, Lublin
+Janina,F, Poland
 Florina,F, Netherlands
 Pleunis,M, Netherlands
 Wilhelmina,F, Netherlands
@@ -813,7 +811,7 @@ Joannes,M,Poland
 Andreas,M,Poland
 Catharina,F, Netherlands
 Frank,M, Netherlands
-Stefan,M, Lublin
+Stefan,M, Poland
 Mary,U,Ireland
 Rosalia,F,Poland
 Franciscus,M, Netherlands
@@ -841,7 +839,6 @@ Gerard,M, Netherlands
 Maartje,F, Netherlands
 Ida,F, Netherlands
 Ladislaus,M,Poland
-,U, Poland
 Cunegundis,F,Poland
 Elizabeth,F, Netherlands
 Leendert,M, Netherlands
@@ -852,7 +849,6 @@ Berendina,F, Netherlands
 Harmen,M, Netherlands
 James,U,Ireland
 Adriana,F, Netherlands
-,U, Poland
 Hugh,U,Ireland
 Jan,M, Poland
 Wilhelmina,F, Netherlands
@@ -866,7 +862,7 @@ Abraham,U,Ireland
 Owen,U,Ireland
 Anna,F,Poland
 Gerritje,F, Netherlands
-Antoni,M, Lublin
+Antoni,M, Poland
 Johannes,M, Netherlands
 Cornelis,M, Netherlands
 Willem,M, Netherlands
@@ -905,7 +901,7 @@ Tomasz,M, Poland
 Michael,U,Ireland
 Elizabeth,F, Netherlands
 Jan,M, Netherlands
-Zofia,F, Lublin
+Zofia,F, Poland
 Bartholomaeus,M,Poland
 Ivy,U,Ireland
 Adrianus,M, Netherlands
@@ -922,7 +918,7 @@ Maria,F, Netherlands
 Jan,M, Netherlands
 Cornelia,F, Netherlands
 Josephus,M,Poland
-Władysława,F, Lublin
+Władysława,F, Poland
 Hendrik,M, Netherlands
 Pieternella,F, Netherlands
 Elizabeth,F, Netherlands
@@ -1033,7 +1029,7 @@ Abram,M, Netherlands
 Pieter,M, Netherlands
 Adriaan,M, Netherlands
 Francis,U,Ireland
-Stanisław,M, Lublin
+Stanisław,M, Poland
 Paulus,M,Poland
 Herman,M, Netherlands
 John,M, Netherlands
@@ -1070,7 +1066,7 @@ Sara,F, Netherlands
 Johannes,M, Netherlands
 Isabella,U,Ireland
 Joseph,U,Ireland
-Stanisław,M, Lublin
+Stanisław,M, Poland
 Johan,M, Netherlands
 Roelfien,F, Netherlands
 Salomon,M, Netherlands
@@ -1105,14 +1101,14 @@ Franciscus,M,Poland
 Maria,F, Netherlands
 Christina,F, Netherlands
 Cornelia,F, Netherlands
-Czesław,M, Lublin
+Czesław,M, Poland
 Elizabeth,F, Netherlands
 Agnes,U,Ireland
 Angela,F,Poland
 Dina,F, Netherlands
 Teresa,U,Ireland
 Mijntje,F, Netherlands
-Stanisława,F, Lublin
+Stanisława,F, Poland
 Wilhelmina,U,Ireland
 Hein,M, Netherlands
 Mary,U,Ireland
@@ -1360,7 +1356,7 @@ Sophia,F,Poland
 Caitlin,U,Ireland
 Isabella,U,Ireland
 Catharina,F, Netherlands
-Bolesław,M, Lublin
+Bolesław,M, Poland
 Dirk,M, Netherlands
 Alice,U,Ireland
 Ferdinandus,M, Netherlands
@@ -1381,14 +1377,14 @@ J�zef,M, Poland
 Patrick,U,Ireland
 Arie,M, Netherlands
 Adriaantje,F, Netherlands
-Michał,M, Lublin
+Michał,M, Poland
 Anna,F, Netherlands
 William,U,Ireland
 Hendrika,F, Netherlands
 Hendrika,F, Netherlands
 Una,U,Ireland
 Engelina,F, Netherlands
-Janina,F, Lublin
+Janina,F, Poland
 Franciscus,M,Poland
 Joseph,U,Ireland
 Aart,M, Netherlands
@@ -1438,7 +1434,6 @@ Albert,M, Netherlands
 Geert,M, Netherlands
 J�zef,M, Poland
 Jan,M, Netherlands
-,U, Poland
 Johannes,M, Netherlands
 Andrew,U,Ireland
 Feliks,M, Poland
@@ -1488,7 +1483,7 @@ Gijsbertus,M, Netherlands
 Sophia,F,Poland
 Bronislava,F,Poland
 Karolina,F, Poland
-Helena,F, Lublin
+Helena,F, Poland
 John,U,Ireland
 Barbertje,F, Netherlands
 Bridget,U,Ireland
@@ -1518,7 +1513,7 @@ Frederik,M, Netherlands
 Jacoba,F, Netherlands
 Rozalia,F, Poland
 Regina,F, Netherlands
-Aleksander,M, Lublin
+Aleksander,M, Poland
 Josephus,M,Poland
 Heintje,F, Netherlands
 Josephus,M,Poland
@@ -1624,7 +1619,7 @@ Jacobus,M, Netherlands
 Edward,U,Ireland
 Marianna,F,Poland
 Josephus,M,Poland
-Kazimierz,M, Lublin
+Kazimierz,M, Poland
 Julianna,F,Poland
 Jacobus,M,Poland
 Jan,M, Netherlands
@@ -1651,11 +1646,10 @@ Johanna,F, Netherlands
 Neeltje,F, Netherlands
 Queenie,U,Ireland
 Anna,F, Poland
-Stanisław,M, Lublin
+Stanisław,M, Poland
 Felix,U,Ireland
 Hendricus,M, Netherlands
 Josephus,M,Poland
-,U, Poland
 Antonius,M,Poland
 Martha,U,Ireland
 Margaret,U,Ireland
@@ -1692,7 +1686,7 @@ Maria,F, Netherlands
 Mieczysław,M, Poland
 Michael,M,Poland
 Jan,M, Netherlands
-Aniela,F, Lublin
+Aniela,F, Poland
 Barend,M, Netherlands
 Antonina,F, Poland
 Elisabeth,F, Netherlands
@@ -1779,8 +1773,7 @@ Alida,F, Netherlands
 Christina,F, Netherlands
 Peter,M, Netherlands
 William,U,Ireland
-Ewa,F, Lublin
-,U, Poland
+Ewa,F, Poland
 Bernardus,M, Netherlands
 Hessie,U,Ireland
 Willemina,F, Netherlands
@@ -1804,9 +1797,8 @@ Leopold,M, Netherlands
 Rozalia,F, Poland
 Neeltje,F, Netherlands
 Vladislaus,M,Poland
-Stanisława,F, Lublin
+Stanisława,F, Poland
 Anna,F,Poland
-,U, Poland
 J�zef,M, Poland
 Mietje,F, Netherlands
 Winifred,U,Ireland
@@ -1829,7 +1821,7 @@ Johanna,F, Netherlands
 Albertus,M, Netherlands
 Lilian,U,Ireland
 Marion,U,Ireland
-Marya,F, Lublin
+Marya,F, Poland
 Katarzyna,F, Poland
 Yetta,U,Ireland
 Johanna,F, Netherlands
@@ -1886,7 +1878,6 @@ Petrus,M,Poland
 Hermanus,M, Netherlands
 Genovefa,F,Poland
 Bastiaantje,F, Netherlands
-,U, Poland
 Johanna,F, Netherlands
 Youchvia,U,Ireland
 Neeltje,F, Netherlands
@@ -1912,7 +1903,7 @@ John,U,Ireland
 Margaret,U,Ireland
 Jan,M, Netherlands
 Johannes,M, Netherlands
-Zofja,F, Lublin
+Zofja,F, Poland
 Jan,M, Netherlands
 Leendert,M, Netherlands
 Jacoba,F, Netherlands
@@ -1972,7 +1963,6 @@ Patrick,U,Ireland
 Cornelia,F, Netherlands
 Wojciech,M, Poland
 Wilhelmina,F, Netherlands
-,U, Poland
 Catherine,U,Ireland
 Jacobus,M, Netherlands
 Leendert,M, Netherlands
@@ -2047,9 +2037,8 @@ Christina,F, Netherlands
 Christina,F, Netherlands
 Cornelis,M, Netherlands
 Marinus,M, Netherlands
-*Y,U,Ireland
 Alida,F, Netherlands
-Maryan,M, Lublin
+Maryan,M, Poland
 Adrianus,M, Netherlands
 Anna,F, Poland
 Helena,F, Netherlands
@@ -2082,7 +2071,7 @@ Barbara,F, Netherlands
 Peter,U,Ireland
 Willem,M, Netherlands
 Josepha,F,Poland
-Stanisława,F, Lublin
+Stanisława,F, Poland
 Joannes,M, Netherlands
 Willem,M, Netherlands
 Mary,U,Ireland
@@ -2121,7 +2110,7 @@ Abram,M, Netherlands
 Anna,F,Poland
 Hamilton,U,Ireland
 George,U,Ireland
-Michalina,F, Lublin
+Michalina,F, Poland
 Catharina,F, Netherlands
 Isaac,M, Netherlands
 Maria,U,Ireland
@@ -2173,7 +2162,6 @@ Neeltje,F, Netherlands
 Petrus,M, Netherlands
 Maria,F,Poland
 Thona,F, Netherlands
-,U, Poland
 Willem,M, Netherlands
 Josephus,M,Poland
 Justina,F,Poland
@@ -2192,7 +2180,6 @@ Willem,M, Netherlands
 Young,U,Ireland
 James,U,Ireland
 Wiktoria,F, Poland
-,U, Poland
 James,U,Ireland
 Theodorus,M, Netherlands
 Elizabeth,U,Ireland
@@ -2510,13 +2497,12 @@ Hendrik,M, Netherlands
 Gustaaf,M, Netherlands
 Clazina,F, Netherlands
 Willem,M, Netherlands
-Janina,F, Lublin
+Janina,F, Poland
 Alford,U,Ireland
 Margaretha,F, Netherlands
 Josephus,M,Poland
 Lena,U,Ireland
 Jan,M, Poland
-,U, Poland
 Jan,M, Netherlands
 Aafje,F, Netherlands
 Maria,F, Netherlands
@@ -2628,7 +2614,7 @@ Willem,M, Netherlands
 Catharina,F, Netherlands
 James,U,Ireland
 Johanna,F, Netherlands
-Cypryan,M, Lublin
+Cypryan,M, Poland
 Honoria,U,Ireland
 Catharina,F,Poland
 John,U,Ireland
@@ -2647,7 +2633,7 @@ James,U,Ireland
 Annetje,F, Netherlands
 Maria,F, Netherlands
 Maria,F, Netherlands
-Jan,M, Lublin
+Jan,M, Poland
 Ellen,U,Ireland
 Arie,M, Netherlands
 Maria,F, Netherlands
@@ -2717,7 +2703,6 @@ Hugh,U,Ireland
 Johan,M, Netherlands
 Anna,F,Poland
 Hendrika,F, Netherlands
-,U, Poland
 George,U,Ireland
 Elisabeth,F, Netherlands
 Alford,U,Ireland
@@ -2761,7 +2746,7 @@ Jisque,F, Netherlands
 Andreas,M,Poland
 James,U,Ireland
 John,U,Ireland
-Bohdan,M, Lublin
+Bohdan,M, Poland
 Jan,M, Netherlands
 Johanna,F, Netherlands
 Henricus,M, Netherlands
@@ -2810,7 +2795,7 @@ Stanislaus,M,Poland
 Hendrikus,M, Netherlands
 Maria,F, Netherlands
 David,U,Ireland
-Stanisław,M, Lublin
+Stanisław,M, Poland
 Antje,F, Netherlands
 Maria,M,Poland
 Mary,U,Ireland
@@ -2921,7 +2906,7 @@ Desmond,U,Ireland
 Antonius,M,Poland
 Joannes,M, Netherlands
 Johanna,F, Netherlands
-Bronisława,F, Lublin
+Bronisława,F, Poland
 Geertrui,F, Netherlands
 Kornelia,F, Poland
 Irene,U,Ireland
@@ -2931,9 +2916,9 @@ Cinta,F,Poland
 Johannes,M, Netherlands
 Johannes,M, Netherlands
 Johannes,M, Netherlands
-Helena,F, Lublin
+Helena,F, Poland
 Harmen,M, Netherlands
-Edmund,M, Lublin
+Edmund,M, Poland
 Joannes,M,Poland
 Klaas,M, Netherlands
 Johannes,M, Netherlands
@@ -2961,7 +2946,6 @@ Hendrik,M, Netherlands
 Jacob,M, Netherlands
 Joseph,M,Poland
 Abraham,M, Netherlands
-,U, Poland
 Władysław,M, Poland
 Joannes,M,Poland
 Johan,M, Netherlands
@@ -2976,7 +2960,6 @@ Helena,F, Poland
 Cornelia,F, Netherlands
 Cornelis,M, Netherlands
 Hendrik,M, Netherlands
-,U, Poland
 Hueva,U,Ireland
 Marianna,F,Poland
 Pieter,M, Netherlands
@@ -3013,7 +2996,7 @@ Hilbrandt,M, Netherlands
 Alice,U,Ireland
 Henderina,F, Netherlands
 Marie,F, Netherlands
-Alfreda,F, Lublin
+Alfreda,F, Poland
 Josephus,M,Poland
 Jan,M, Netherlands
 Petronella,F, Netherlands
@@ -3024,7 +3007,7 @@ Reiniera,F, Netherlands
 Arie,M, Netherlands
 Heva,F,Poland
 Jakob,M, Netherlands
-Stanisław,M, Lublin
+Stanisław,M, Poland
 John,U,Ireland
 Martinus,M,Poland
 Philippus,M, Netherlands
@@ -3051,7 +3034,6 @@ Joseph,M,Poland
 Irene,U,Ireland
 Karolina,F, Poland
 Władysława,F, Poland
-,U, Poland
 Willem,M, Netherlands
 Johan,M, Netherlands
 Ethel,U,Ireland
@@ -3075,9 +3057,9 @@ Johanna,F, Netherlands
 Maartje,F, Netherlands
 Nathan,M, Netherlands
 Adrianus,M, Netherlands
-Marjan,M, Lublin
+Marjan,M, Poland
 Robert,U,Ireland
-Barbara,F, Lublin
+Barbara,F, Poland
 Leonardus,M, Netherlands
 Marianna,F,Poland
 Adriana,F, Netherlands
@@ -3095,7 +3077,6 @@ J�zefa,F, Poland
 Jacobus,M, Netherlands
 Stephania,M,Poland
 Pieternella,F, Netherlands
-,U, Poland
 Maria,F,Poland
 Laurentius,M,Poland
 Karel,M, Netherlands
@@ -3114,7 +3095,7 @@ Jacob,M, Netherlands
 Elizabeth,U,Ireland
 Justina,F,Poland
 Klaasje,F, Netherlands
-Marian,M, Lublin
+Marian,M, Poland
 Adam,M, Poland
 Margaret,U,Ireland
 Thomas,U,Ireland
@@ -3127,7 +3108,6 @@ Maria,F, Netherlands
 Stanislaus,U,Ireland
 Franciszka,F, Poland
 Helena,F,Poland
-,U, Poland
 Cornelis,M, Netherlands
 Cornelia,F, Netherlands
 Jane,U,Ireland
@@ -3148,7 +3128,7 @@ Andrew,U,Ireland
 Franciscus,M,Poland
 Martin,M, Netherlands
 Johannes,M, Netherlands
-Janusz,M, Lublin
+Janusz,M, Poland
 Hendrik,M, Netherlands
 Margaret,U,Ireland
 Una,U,Ireland
@@ -3168,7 +3148,7 @@ Una,U,Ireland
 Wilhelmus,M, Netherlands
 Petronella,F, Netherlands
 Helena,F, Netherlands
-Janina,F, Lublin
+Janina,F, Poland
 Anna,F, Netherlands
 Jerike,F, Netherlands
 Feite,M, Netherlands
@@ -3267,7 +3247,7 @@ Jacoba,F, Netherlands
 Henricus,M, Netherlands
 Gijsbertina,F, Netherlands
 Joseph,M, Netherlands
-Krystyna,F, Lublin
+Krystyna,F, Poland
 James,U,Ireland
 Adriana,F, Netherlands
 John,U,Ireland
@@ -3303,7 +3283,7 @@ Yvonne,U,Ireland
 Cornelia,F, Netherlands
 Marianna,F, Poland
 Pieter,M, Netherlands
-Adela,F, Lublin
+Adela,F, Poland
 Isabella,U,Ireland
 Francisca,F,Poland
 Josepha,F,Poland
@@ -3312,7 +3292,6 @@ Joannes,M,Poland
 Doreen,U,Ireland
 Willem,M, Netherlands
 Bernard,U,Ireland
-,U, Poland
 Franciscus,M,Poland
 Cornelia,F, Netherlands
 Wiktoria,F, Poland
@@ -3452,7 +3431,7 @@ Stanislaus,M,Poland
 Willem,M, Netherlands
 Mabel,U,Ireland
 Michał,M, Poland
-Marjanna,F, Lublin
+Marjanna,F, Poland
 Josephus,M,Poland
 Lambertus,M, Netherlands
 William,U,Ireland
@@ -3468,15 +3447,13 @@ Johanna,F, Netherlands
 Antonius,M,Poland
 Jacob,M, Netherlands
 Henry,U,Ireland
-,U, Poland
 Helena,F,Poland
 Andrzej,M, Poland
-J�zef,M, Lublin
+J�zef,M, Poland
 Willem,M, Netherlands
 William,U,Ireland
 Catherine,U,Ireland
 Alice,U,Ireland
-,U, Poland
 Christina,F, Netherlands
 Stanislaus,M,Poland
 Johannes,M, Netherlands
@@ -3504,7 +3481,6 @@ Franciscus,M,Poland
 Cornelis,M, Netherlands
 Stanislaus,M,Poland
 Anna,F,Poland
-,U, Poland
 Margaret,U,Ireland
 Arie,M, Netherlands
 Carolina,F,Poland
@@ -3558,7 +3534,7 @@ Johannes,M, Netherlands
 Franciszka,F, Poland
 Stanislaus,M,Poland
 Michael,U,Ireland
-Władysław,M, Lublin
+Władysław,M, Poland
 Antonie,M, Netherlands
 Arie,M, Netherlands
 Hendrikus,M, Netherlands
@@ -3604,7 +3580,7 @@ Everhardus,M, Netherlands
 Gijsbertus,M, Netherlands
 Sientje,F, Netherlands
 Owen,U,Ireland
-Helena,F, Lublin
+Helena,F, Poland
 Michael,U,Ireland
 Virginie,F, Netherlands
 Karolina,F, Poland
@@ -3631,9 +3607,8 @@ Maria,F, Netherlands
 Dirk,M, Netherlands
 Maria,F, Netherlands
 Johanna,F, Netherlands
-,U, Poland
 Johanna,F, Netherlands
-Zdzisław,M, Lublin
+Zdzisław,M, Poland
 Maria,F, Netherlands
 Stephania,F,Poland
 Adriana,F, Netherlands
@@ -3656,7 +3631,7 @@ Wilhelmina,F, Netherlands
 Alida,F, Netherlands
 Bernardus,M, Netherlands
 Mary,U,Ireland
-Jan,M, Lublin
+Jan,M, Poland
 Catharina,F, Netherlands
 Cornelis,M, Netherlands
 Arnolda,F, Netherlands
@@ -3779,7 +3754,7 @@ Jakob,M, Netherlands
 Mary,U,Ireland
 Ladislaus,M,Poland
 Florence,U,Ireland
-Tadeusz,M, Lublin
+Tadeusz,M, Poland
 Johannes,M, Netherlands
 Maria,F, Netherlands
 Frances,U,Ireland
@@ -3862,7 +3837,6 @@ Peter,U,Ireland
 Abraham,M, Netherlands
 Susanna,F, Netherlands
 Bridget,U,Ireland
-,U, Poland
 Johan,M, Netherlands
 Nicolaas,M, Netherlands
 Bronislaus,M,Poland
@@ -3973,7 +3947,7 @@ Helena,F, Netherlands
 Henriette,F, Netherlands
 Jansje,F, Netherlands
 Joseph,U,Ireland
-Zofja,F, Lublin
+Zofja,F, Poland
 Herman,M, Netherlands
 Johannes,M, Netherlands
 Bernhardina,F, Netherlands
@@ -4088,7 +4062,7 @@ Johannes,M, Netherlands
 Henry,U,Ireland
 Jakoba,F, Netherlands
 James,U,Ireland
-J�zef,M, Lublin
+J�zef,M, Poland
 Arie,M, Netherlands
 Una,U,Ireland
 Cornelia,F, Netherlands
@@ -4145,7 +4119,7 @@ Stephanus,M,Poland
 Gerrit,M, Netherlands
 Margaret,U,Ireland
 Pieter,M, Netherlands
-Konstanty,M, Lublin
+Konstanty,M, Poland
 Jan,M, Poland
 Jan,M, Netherlands
 Jannetje,F, Netherlands
@@ -4225,7 +4199,7 @@ Maaike,F, Netherlands
 Bernardus,M, Netherlands
 Johanna,F, Netherlands
 Lena,F, Netherlands
-Janina,F, Lublin
+Janina,F, Poland
 Jan,M, Netherlands
 Josepha,M,Poland
 Aartje,F, Netherlands
@@ -4273,7 +4247,7 @@ Anna,F,Poland
 Rebekka,F, Netherlands
 Ladislaus,M,Poland
 Maria,F, Netherlands
-Stanisława,F, Lublin
+Stanisława,F, Poland
 Stanisław,M, Poland
 Joseph,M, Netherlands
 Johannes,M, Netherlands
@@ -4282,7 +4256,6 @@ Thona,F, Netherlands
 Harrison,U,Ireland
 Maggie,U,Ireland
 David,U,Ireland
-,U, Poland
 Pieter,M, Netherlands
 Henriette,F, Netherlands
 Anna,F, Netherlands
@@ -4300,7 +4273,6 @@ Jan,M, Netherlands
 Richard,U,Ireland
 Anna,F, Netherlands
 William,U,Ireland
-,U, Poland
 Annigje,F, Netherlands
 Marianna,F, Poland
 Carolus,M,Poland
@@ -4391,7 +4363,7 @@ Queenie,U,Ireland
 Rebecca,F, Netherlands
 Peter,U,Ireland
 Honorata,F,Poland
-Stefanja,F, Lublin
+Stefanja,F, Poland
 Jozef,M, Netherlands
 Hendrikus,M, Netherlands
 Engel,M, Netherlands
@@ -4406,7 +4378,7 @@ Cunegundis,F,Poland
 Hendrik,M, Netherlands
 Henderika,F, Netherlands
 Joseph,U,Ireland
-Bolesław,M, Lublin
+Bolesław,M, Poland
 James,U,Ireland
 William,U,Ireland
 Feliksa,F, Poland
@@ -4433,7 +4405,7 @@ Abraham,M, Netherlands
 Johannes,M, Netherlands
 Joannes,M,Poland
 Antonina,F,Poland
-Eugenja,F, Lublin
+Eugenja,F, Poland
 Frans,M, Netherlands
 Anna,F,Poland
 Stephania,F,Poland
@@ -4444,7 +4416,7 @@ Jan,M, Poland
 Hendrik,M, Netherlands
 Leendert,M, Netherlands
 Theresia,F, Netherlands
-Zofia,F, Lublin
+Zofia,F, Poland
 Flora,F, Netherlands
 Edith,U,Ireland
 Agnieszka,F, Poland
@@ -4471,7 +4443,7 @@ John,U,Ireland
 Leintje,F, Netherlands
 Johanna,F, Netherlands
 Stanislaus,M,Poland
-Mieczysław,M, Lublin
+Mieczysław,M, Poland
 Martinus,M,Poland
 Adalbertus,M,Poland
 Catharina,F,Poland
@@ -4542,10 +4514,10 @@ Wilhelmina,F, Netherlands
 Adam,M,Poland
 Martinus,M,Poland
 Maria,F, Netherlands
-Tadeusz,M, Lublin
+Tadeusz,M, Poland
 Maggie,U,Ireland
 Szymon,M, Poland
-Marya,F, Lublin
+Marya,F, Poland
 Michael,M,Poland
 Aleksander,M, Poland
 Susanna,F, Netherlands
@@ -4560,7 +4532,7 @@ Louisa,U,Ireland
 Dina,F, Netherlands
 Adriaan,M, Netherlands
 John,U,Ireland
-Danuta,F, Lublin
+Danuta,F, Poland
 Maarten,M, Netherlands
 Hugh,U,Ireland
 Maria,F, Netherlands
@@ -4608,14 +4580,14 @@ Terence,U,Ireland
 Johannes,M, Netherlands
 Genovefa,F,Poland
 Helena,F, Poland
-Czesława,F, Lublin
+Czesława,F, Poland
 Dionisius,M, Netherlands
 Johannes,M, Netherlands
 Ladislaus,M,Poland
 Honorata,F,Poland
 Eva,F,Poland
 Hugh,U,Ireland
-Tadeusz,M, Lublin
+Tadeusz,M, Poland
 Wilhelmina,F, Netherlands
 Catharina,F,Poland
 Aleksander,M, Poland
@@ -4651,7 +4623,7 @@ Franciscus,M,Poland
 Quinlan,U,Ireland
 Clement,M, Netherlands
 Albertus,M, Netherlands
-Piotr,M, Lublin
+Piotr,M, Poland
 Maria,F, Netherlands
 Johannes,M, Netherlands
 Cornelis,M, Netherlands
@@ -4686,7 +4658,7 @@ Antonie,M, Netherlands
 Mary,U,Ireland
 Una,U,Ireland
 Johanna,F, Netherlands
-Kazimierz,M, Lublin
+Kazimierz,M, Poland
 Paulus,M, Netherlands
 Francis,U,Ireland
 Sophia,F,Poland
@@ -4738,13 +4710,13 @@ Petronella,F, Netherlands
 Helena,F, Netherlands
 Elizabeth,F, Netherlands
 Apolonia,F, Netherlands
-Władysław,M, Lublin
+Władysław,M, Poland
 Rozalia,F, Poland
 Joannes,M,Poland
 Johannes,M, Netherlands
 Maria,F,Poland
 Johannes,M, Netherlands
-Janina,F, Lublin
+Janina,F, Poland
 Anton,M, Netherlands
 Victoria,F,Poland
 Sophia,F,Poland
@@ -4855,14 +4827,14 @@ Philip,M, Netherlands
 Sara,F, Netherlands
 Anastazja,F, Poland
 Mary,U,Ireland
-Bolesława,F, Lublin
+Bolesława,F, Poland
 Elizabeth,F, Netherlands
 Patrick,U,Ireland
 Cort,M, Netherlands
 Sarah,U,Ireland
 Johanna,F, Netherlands
 Bridget,U,Ireland
-Eugenia,F, Lublin
+Eugenia,F, Poland
 Annie,U,Ireland
 Hendrik,M, Netherlands
 Willem,M, Netherlands
@@ -4943,7 +4915,7 @@ Josephina,F, Netherlands
 Stanisława,F, Poland
 Adrianus,M, Netherlands
 James,U,Ireland
-Jan,M, Lublin
+Jan,M, Poland
 Władysław,M, Poland
 Adriana,F, Netherlands
 Theodorus,M, Netherlands
@@ -5018,7 +4990,7 @@ Thomas,M, Netherlands
 Aletta,F, Netherlands
 Adriana,F, Netherlands
 Hermanus,M, Netherlands
-Romuald,M, Lublin
+Romuald,M, Poland
 Lourens,M, Netherlands
 Anna,F, Netherlands
 Willem,M, Netherlands
@@ -5083,7 +5055,7 @@ Antonius,M, Netherlands
 Cornelis,M, Netherlands
 Rozalia,F, Poland
 Yvonne,U,Ireland
-Zofia,F, Lublin
+Zofia,F, Poland
 Antonia,F, Netherlands
 Maria,F, Netherlands
 Maggie,U,Ireland
@@ -5093,7 +5065,7 @@ Josephus,M,Poland
 Catharina,F,Poland
 Wiktoria,F, Poland
 Ladislaus,M,Poland
-Bronisław,M, Lublin
+Bronisław,M, Poland
 Johannes,M, Netherlands
 Paweł,M, Poland
 Willem,M, Netherlands
@@ -5262,7 +5234,7 @@ Hendrikus,M, Netherlands
 William,U,Ireland
 Lambertus,M, Netherlands
 Anna,F, Netherlands
-Jan,M, Lublin
+Jan,M, Poland
 Mozes,M, Netherlands
 Władysław,M, Poland
 Linkje,F, Netherlands
@@ -5285,7 +5257,6 @@ Gerarda,F, Netherlands
 George,U,Ireland
 Marinus,M, Netherlands
 Arie,M, Netherlands
-,U, Poland
 Cornelis,M, Netherlands
 Jacoba,F, Netherlands
 Christiaan,M, Netherlands
@@ -5301,7 +5272,7 @@ Julianus,M,Poland
 Mary,U,Ireland
 David,U,Ireland
 Willem,M, Netherlands
-Marjanna,F, Lublin
+Marjanna,F, Poland
 Adalbertus,M,Poland
 John,U,Ireland
 Willem,M, Netherlands
@@ -5454,8 +5425,7 @@ Arie,M, Netherlands
 Petrus,M, Netherlands
 Yvonne,U,Ireland
 Maria,F, Netherlands
-,U, Poland
-Ewa,F, Lublin
+Ewa,F, Poland
 Jan,M, Netherlands
 Neeltje,F, Netherlands
 Antoni,M, Poland
@@ -5545,7 +5515,7 @@ Wilhelmus,M, Netherlands
 Ludovicus,M,Poland
 Maria,F, Netherlands
 Florence,U,Ireland
-Józef,M, Lublin
+Józef,M, Poland
 Jan,M, Netherlands
 Hendrika,F, Netherlands
 Gerritje,F, Netherlands
@@ -5584,7 +5554,6 @@ Arie,M, Netherlands
 Martha,U,Ireland
 Pieter,M, Netherlands
 Jan,M, Netherlands
-,U, Poland
 Sier,M, Netherlands
 Josephus,M,Poland
 Elias,M, Netherlands
@@ -5760,7 +5729,6 @@ Veronica,F,Poland
 Anna,F, Netherlands
 Karolina,F, Poland
 Jacob,M, Netherlands
-,U, Poland
 Gertrude,U,Ireland
 Paweł,M, Poland
 Geertruida,F, Netherlands
@@ -5769,7 +5737,6 @@ Johanna,F, Netherlands
 Adam,M, Poland
 Theodora,F, Netherlands
 Maria,F, Netherlands
-,U, Poland
 Florence,U,Ireland
 Powena,U,Ireland
 Johannes,M, Netherlands
@@ -5782,7 +5749,6 @@ Christiaan,M, Netherlands
 Maria,F,Poland
 Antonina,F, Poland
 Anna,F, Netherlands
-,U, Poland
 Maria,F,Poland
 Susanna,F, Netherlands
 Arnoldus,M, Netherlands
@@ -5850,7 +5816,7 @@ Suzanna,F, Netherlands
 Johanna,F, Netherlands
 Hermanus,M, Netherlands
 Pieter,M, Netherlands
-Magdalena,F, Lublin
+Magdalena,F, Poland
 Gerrigje,F, Netherlands
 Anne,U,Ireland
 Elisabeth,F, Netherlands
@@ -5924,7 +5890,7 @@ Petronella,F, Netherlands
 Mary,U,Ireland
 Anna,F, Netherlands
 Adriana,F, Netherlands
-Aleksander,M, Lublin
+Aleksander,M, Poland
 Helena,F, Poland
 Elizabeth,F, Netherlands
 Metje,F, Netherlands
@@ -6009,7 +5975,6 @@ Rozalia,F, Poland
 Stanisława,F, Poland
 Celia,F, Netherlands
 Clasina,F, Netherlands
-*Y,U,Ireland
 William,U,Ireland
 Charles,U,Ireland
 Hendrik,M, Netherlands
@@ -6025,14 +5990,13 @@ Anna,F,Poland
 Pieternella,F, Netherlands
 Margaret,U,Ireland
 Isabella,U,Ireland
-Female,U,Ireland
 Margje,F, Netherlands
 John,U,Ireland
 Johanna,F, Netherlands
 Amarentia,F, Netherlands
 Reinerus,M, Netherlands
 Jan,M, Poland
-Marjanna,F, Lublin
+Marjanna,F, Poland
 Magdalena,F, Netherlands
 Pieter,M, Netherlands
 Catharina,F,Poland
@@ -6090,11 +6054,10 @@ Bastiaan,M, Netherlands
 Jan,M, Netherlands
 Johanna,F, Netherlands
 Aartje,F, Netherlands
-,U, Poland
 Johannes,M, Netherlands
 Czesław,M, Poland
 Catharina,F, Netherlands
-Regina,F, Lublin
+Regina,F, Poland
 Carolus,M, Netherlands
 James,U,Ireland
 Albert,U,Ireland
@@ -6139,7 +6102,6 @@ Cornelia,F, Netherlands
 Leendert,M, Netherlands
 Matthew,U,Ireland
 Grietje,F, Netherlands
-,U, Poland
 Detlef,M, Netherlands
 Catherine,U,Ireland
 Sophia,F,Poland
@@ -6161,7 +6123,6 @@ Piotr,M, Poland
 Ludovicus,M,Poland
 Neeltje,F, Netherlands
 Aantje,F, Netherlands
-,U, Poland
 Agatha,F, Netherlands
 Sarah,U,Ireland
 Una,U,Ireland
@@ -6263,7 +6224,7 @@ Josephus,M,Poland
 Rosalia,F,Poland
 Robert,U,Ireland
 Una,U,Ireland
-Maryan,M, Lublin
+Maryan,M, Poland
 Cornelis,M, Netherlands
 Ladislaus,M,Poland
 Gijsbertus,M, Netherlands
@@ -6323,7 +6284,7 @@ Hilje,F, Netherlands
 Joannes,M,Poland
 Dientje,F, Netherlands
 Dietrich,M, Netherlands
-Kazimiera,F, Lublin
+Kazimiera,F, Poland
 Julia,F, Netherlands
 Thomas,M,Poland
 Jacobus,M,Poland
@@ -6395,7 +6356,7 @@ Jan,M, Poland
 Annie,U,Ireland
 Una,U,Ireland
 Agnieszka,F, Poland
-Andrzej,M, Lublin
+Andrzej,M, Poland
 Johannes,M, Netherlands
 Rokus,M, Netherlands
 Stanislava,F,Poland
@@ -6537,9 +6498,8 @@ Johanna,F, Netherlands
 Gerrit,M, Netherlands
 Bernardus,M, Netherlands
 Krijn,M, Netherlands
-,U, Poland
 Neeltje,F, Netherlands
-Jan,M, Lublin
+Jan,M, Poland
 Joannes,M,Poland
 Catharina,F,Poland
 Cornelis,M, Netherlands
@@ -6574,7 +6534,7 @@ Robert,U,Ireland
 Nicolaas,M, Netherlands
 Henri,M, Netherlands
 Maria,F, Netherlands
-Stanisława,F, Lublin
+Stanisława,F, Poland
 Berta,F, Netherlands
 Christina,F,Poland
 Adriana,F, Netherlands
@@ -6591,7 +6551,7 @@ James,U,Ireland
 Marceli,M, Poland
 Willemijntje,F, Netherlands
 Josepha,F,Poland
-Marya,F, Lublin
+Marya,F, Poland
 Yvo,U,Ireland
 Elizabeth,F, Netherlands
 Mary,U,Ireland
@@ -6622,7 +6582,7 @@ Willemina,F, Netherlands
 Maria,F, Netherlands
 Arie,M, Netherlands
 Maria,F,Poland
-Irena,F, Lublin
+Irena,F, Poland
 Jan,M, Netherlands
 Anna,F, Netherlands
 Marinus,M, Netherlands
@@ -6728,7 +6688,7 @@ Elizabeth,F, Netherlands
 Samuel,M, Netherlands
 Betty,F, Netherlands
 Cornelia,F, Netherlands
-Tadeusz,M, Lublin
+Tadeusz,M, Poland
 Valentinus,M,Poland
 Martha,U,Ireland
 Gijsbertus,M, Netherlands
@@ -6858,18 +6818,18 @@ Aaltje,F, Netherlands
 Florence,U,Ireland
 Johannes,M, Netherlands
 Jacobus,M, Netherlands
-Jan,M, Lublin
+Jan,M, Poland
 Joannes,M,Poland
 Jannetje,F, Netherlands
 Johannes,M, Netherlands
 John,U,Ireland
 Saartje,F, Netherlands
-Cecylja,F, Lublin
+Cecylja,F, Poland
 Marguerite,U,Ireland
 Wilhelmus,M, Netherlands
 Antoni,M, Poland
 Barbara,F, Poland
-Edward,M, Lublin
+Edward,M, Poland
 Leendert,M, Netherlands
 George,U,Ireland
 Nicolaus,M,Poland
@@ -6982,7 +6942,7 @@ Johannes,M, Netherlands
 Chudy,M,Poland
 Isabella,U,Ireland
 Franciszek,M, Poland
-Zygmunt,M, Lublin
+Zygmunt,M, Poland
 J�zefa,F, Poland
 Maria,F, Netherlands
 Hendrik,M, Netherlands
@@ -7012,7 +6972,7 @@ Sophia,F,Poland
 George,M, Netherlands
 Petrus,M, Netherlands
 Margaretha,F, Netherlands
-Helena,F, Lublin
+Helena,F, Poland
 John,U,Ireland
 John,U,Ireland
 Maaike,F, Netherlands
@@ -7107,7 +7067,7 @@ Patrick,U,Ireland
 Rosalia,F,Poland
 Franklin,U,Ireland
 Padraig,U,Ireland
-Anna,F, Lublin
+Anna,F, Poland
 Carolina,F,Poland
 Abraham,M, Netherlands
 Agnes,U,Ireland
@@ -7125,7 +7085,7 @@ Johanna,F, Netherlands
 Gerarda,F, Netherlands
 Pieter,M, Netherlands
 Johannes,M, Netherlands
-Czesław,M, Lublin
+Czesław,M, Poland
 Josephus,M,Poland
 Elizabeth,F, Netherlands
 George,U,Ireland
@@ -7154,7 +7114,6 @@ Marianna,F, Poland
 Arie,M, Netherlands
 Anna,F, Netherlands
 Adam,M, Netherlands
-,U, Poland
 Adriana,F, Netherlands
 Johanna,F, Netherlands
 Jacomina,F, Netherlands
@@ -7258,7 +7217,7 @@ Peter,U,Ireland
 Marianna,F,Poland
 Isabella,U,Ireland
 Josephus,M,Poland
-Władysław,M, Lublin
+Władysław,M, Poland
 Dina,F, Netherlands
 Jan,M, Netherlands
 J�zef,M, Poland
@@ -7293,7 +7252,6 @@ Leendert,M, Netherlands
 Petrus,M, Netherlands
 Adriana,F, Netherlands
 Casper,M, Netherlands
-,U, Poland
 Eveline,U,Ireland
 Elisabeth,F, Netherlands
 Franciszek,M, Poland
@@ -7424,7 +7382,6 @@ Edward,U,Ireland
 Jan,M, Netherlands
 George,U,Ireland
 Ellen,U,Ireland
-,U,Ireland
 Bridget,U,Ireland
 Petrus,M, Netherlands
 Jansje,F, Netherlands
@@ -7527,11 +7484,10 @@ John,U,Ireland
 Gerrit,M, Netherlands
 Johannes,M, Netherlands
 Antoni,M, Poland
-*Y,U,Ireland
 Thomas,U,Ireland
 Willem,M, Netherlands
 Josephus,M,Poland
-Stanisław,M, Lublin
+Stanisław,M, Poland
 Josephus,M,Poland
 Catherine,U,Ireland
 Cornelis,M, Netherlands
@@ -7684,7 +7640,6 @@ Gerrit,M, Netherlands
 Jacoba,F, Netherlands
 Ludwik,M, Poland
 Adriana,F, Netherlands
-,U, Poland
 Cornelis,M, Netherlands
 Jan,M, Netherlands
 Willem,M, Netherlands
@@ -7713,7 +7668,6 @@ Cornelis,M, Netherlands
 Josephus,M,Poland
 Hermanus,M, Netherlands
 Henrica,F, Netherlands
-,U, Poland
 Marianna,F,Poland
 Michael,M,Poland
 Michael,U,Ireland
@@ -7722,11 +7676,11 @@ Teuntje,F, Netherlands
 Christopher,U,Ireland
 Johanna,F, Netherlands
 Willem,M, Netherlands
-Stanisław,M, Lublin
+Stanisław,M, Poland
 Franciszka,F, Poland
 Willem,M, Netherlands
 Hendrik,M, Netherlands
-Stanisław,M, Lublin
+Stanisław,M, Poland
 Johannes,M, Netherlands
 Hendrika,F, Netherlands
 Mietislaus,M,Poland
@@ -7763,7 +7717,7 @@ Antonina,F, Poland
 Maggie,U,Ireland
 Nelletje,F, Netherlands
 Antonius,M, Netherlands
-Czesława,F, Lublin
+Czesława,F, Poland
 Jaantje,F, Netherlands
 Heinrich,M, Netherlands
 Derkien,F, Netherlands
@@ -7852,7 +7806,6 @@ Bonifacy,M, Poland
 Jan,M, Netherlands
 Franciscus,M,Poland
 Paweł,M, Poland
-,U, Poland
 Adriana,F, Netherlands
 Joseph,U,Ireland
 Willemina,F, Netherlands
@@ -7877,7 +7830,6 @@ Blasius,M,Poland
 Adrianus,M, Netherlands
 Rozalia,F, Poland
 Paulus,M,Poland
-,U, Poland
 Gerardus,M, Netherlands
 Eugene,U,Ireland
 Willem,M, Netherlands
@@ -7897,13 +7849,11 @@ Feliks,M, Poland
 Cornelis,M, Netherlands
 Juliana,F, Netherlands
 Mary,U,Ireland
-,U, Poland
 Pieter,M, Netherlands
 Stanislaus,M,Poland
 Francisca,F,Poland
 Kazimiera,F, Poland
 Teresa,U,Ireland
-,U, Poland
 Allegonda,F, Netherlands
 Dirk,M, Netherlands
 Mieczysław,M, Poland
@@ -8027,9 +7977,9 @@ Catherine,U,Ireland
 Hendricus,M, Netherlands
 Marcelis,M, Netherlands
 Edwarda,F, Poland
-Stanisława,F, Lublin
+Stanisława,F, Poland
 Maria,F, Netherlands
-Bohdan,M, Lublin
+Bohdan,M, Poland
 Adrianus,M, Netherlands
 Petronella,F, Netherlands
 Petrus,M, Netherlands
@@ -8053,7 +8003,7 @@ Czesław,M, Poland
 Joannes,M,Poland
 Marianna,F, Poland
 Susanna,F, Netherlands
-Helena,F, Lublin
+Helena,F, Poland
 Maria,F, Netherlands
 Wilhelmina,F, Netherlands
 Hendrik,M, Netherlands
@@ -8111,7 +8061,7 @@ Winfred,U,Ireland
 Hermina,F, Netherlands
 Maria,F, Netherlands
 Wilhelmus,M, Netherlands
-Wacław,M, Lublin
+Wacław,M, Poland
 Brigid,U,Ireland
 Johannes,M, Netherlands
 Bastiaan,M, Netherlands
@@ -8195,7 +8145,7 @@ Cornelia,F, Netherlands
 J�zef,M, Poland
 Deliana,F, Netherlands
 Sophia,F,Poland
-Genowefa,F, Lublin
+Genowefa,F, Poland
 Job,M, Netherlands
 Marianna,F, Poland
 Antonina,F, Poland
@@ -8234,7 +8184,7 @@ Gerrit,M, Netherlands
 Sigvard,M, Netherlands
 Bronislaus,M,Poland
 Male,U,Ireland
-Maria,F, Lublin
+Maria,F, Poland
 Margaret,U,Ireland
 Maria,F, Netherlands
 Cornelia,F, Netherlands
@@ -8282,7 +8232,7 @@ Maria,F, Netherlands
 Otylia,F, Poland
 Veronica,F,Poland
 Margaret,U,Ireland
-Leokadia,F, Lublin
+Leokadia,F, Poland
 John,U,Ireland
 Alexander,M,Poland
 Stefania,F, Poland
@@ -8428,7 +8378,7 @@ Tyberiusz,M, Poland
 Theodorus,M, Netherlands
 Antonius,M,Poland
 Stella,U,Ireland
-Zofja,F, Lublin
+Zofja,F, Poland
 Margaret,U,Ireland
 Paulus,M,Poland
 Neeltje,F, Netherlands
@@ -8448,7 +8398,7 @@ Władysława,F, Poland
 Petronella,F, Netherlands
 Franciscus,M, Netherlands
 Louis,M, Netherlands
-J�zef,M, Lublin
+J�zef,M, Poland
 Jan,M, Poland
 Anna,F,Poland
 Gerardus,M, Netherlands
@@ -8674,7 +8624,7 @@ Nicolaas,M, Netherlands
 Christiaan,M, Netherlands
 Joannes,M,Poland
 Lodewijk,M, Netherlands
-Przemysław,M, Lublin
+Przemysław,M, Poland
 Maaike,F, Netherlands
 Maria,F, Netherlands
 Johanna,F, Netherlands
@@ -8740,7 +8690,7 @@ Jacobus,M, Netherlands
 Johanna,F, Netherlands
 Cornelis,M, Netherlands
 Catharina,F,Poland
-Jadwiga,F, Lublin
+Jadwiga,F, Poland
 Jacoba,F, Netherlands
 Catharina,F, Netherlands
 Johanna,F, Netherlands
@@ -8933,7 +8883,6 @@ Patrick,U,Ireland
 Magdalena,F, Netherlands
 Young,U,Ireland
 Josephina,F, Netherlands
-/,F,Poland
 Johannes,M, Netherlands
 Angela,F,Poland
 Adrianus,M, Netherlands
@@ -8947,7 +8896,6 @@ Jacobus,M, Netherlands
 Geertrui,F, Netherlands
 Dirkje,F, Netherlands
 Marianna,F, Poland
-,U, Poland
 Cornelis,M, Netherlands
 Matheus,M, Netherlands
 Francina,F, Netherlands
@@ -8983,7 +8931,6 @@ Akke,F, Netherlands
 Norah,U,Ireland
 Wilhelm,M, Netherlands
 Jan,M, Poland
-,U, Poland
 Aartje,F, Netherlands
 Frederik,M, Netherlands
 Stanisława,F, Poland
@@ -9021,7 +8968,7 @@ John,U,Ireland
 Marina,F, Netherlands
 Mary,U,Ireland
 Sophia,F,Poland
-Władysław,M, Lublin
+Władysław,M, Poland
 Marianna,F, Poland
 Wouter,M, Netherlands
 Albertus,M, Netherlands
@@ -9127,7 +9074,7 @@ Cornelia,F, Netherlands
 Herman,M, Netherlands
 Dina,F, Netherlands
 Joannes,M,Poland
-Jan,M, Lublin
+Jan,M, Poland
 Willem,M, Netherlands
 Stanisław,M, Poland
 Hendrik,M, Netherlands
@@ -9191,7 +9138,7 @@ Annie,U,Ireland
 Cornelia,F, Netherlands
 Teuntje,F, Netherlands
 Johanna,F, Netherlands
-Stanisław,M, Lublin
+Stanisław,M, Poland
 Bernard,U,Ireland
 Klazina,F, Netherlands
 Sophia,F,Poland
@@ -9460,7 +9407,7 @@ Ladislaus,M,Poland
 Thomas,M,Poland
 Hisko,M, Netherlands
 Thomas,U,Ireland
-Franciszek,M, Lublin
+Franciszek,M, Poland
 Cornelis,M, Netherlands
 Hendrik,M, Netherlands
 Pieter,M, Netherlands
@@ -9504,7 +9451,7 @@ Josphus,M,Poland
 Jan,M, Netherlands
 Andrzej,M, Poland
 Kleijs,M, Netherlands
-Edward,M, Lublin
+Edward,M, Poland
 Michael,U,Ireland
 Adriana,F, Netherlands
 Adriana,F, Netherlands
@@ -9527,7 +9474,7 @@ Anna,F, Netherlands
 Anna,F, Poland
 Michael,M,Poland
 Constantia,F, Netherlands
-Michał,M, Lublin
+Michał,M, Poland
 Antje,F, Netherlands
 Hendrik,M, Netherlands
 Marianna,F,Poland
@@ -9665,7 +9612,6 @@ Hannah,U,Ireland
 Bridget,U,Ireland
 Bridget,U,Ireland
 Janina,F, Poland
-,U, Poland
 Dina,F, Netherlands
 Maria,F,Poland
 Heinrich,M, Netherlands
@@ -9693,7 +9639,6 @@ Josepha,F,Poland
 Maria,F, Netherlands
 Hendrikus,M, Netherlands
 Eliza,U,Ireland
-,U, Poland
 Jacobus,M, Netherlands
 Marianna,F, Poland
 Alida,F, Netherlands
@@ -9815,7 +9760,7 @@ Gerrit,M, Netherlands
 Sjarle,M, Netherlands
 Willem,M, Netherlands
 Josephine,U,Ireland
-Eugeniusz,M, Lublin
+Eugeniusz,M, Poland
 Franciscus,M,Poland
 Mary,U,Ireland
 Sarah,U,Ireland
@@ -10011,7 +9956,6 @@ Anne,U,Ireland
 Bridget,U,Ireland
 Karol,M, Poland
 Maarten,M, Netherlands
-?,U,Poland
 Helena,F, Netherlands
 Willem,M, Netherlands
 Daniera,F, Netherlands
@@ -10025,7 +9969,7 @@ Jacobus,M, Netherlands
 Maria,F, Netherlands
 Cornelis,M, Netherlands
 Anna,F,Poland
-Edward,M, Lublin
+Edward,M, Poland
 Maria,F, Netherlands
 Antonius,M,Poland
 Teunis,M, Netherlands
@@ -10258,7 +10202,7 @@ Wandert,M, Netherlands
 Henderik,M, Netherlands
 Frank,U,Ireland
 Adrianus,M, Netherlands
-Waleryan,M, Lublin
+Waleryan,M, Poland
 Sara,F, Netherlands
 Marianna,F, Poland
 Alida,F, Netherlands
@@ -10327,14 +10271,14 @@ Cornelis,M, Netherlands
 Isabella,U,Ireland
 Dora,F, Netherlands
 Henricus,M, Netherlands
-Maryanna,F, Lublin
+Maryanna,F, Poland
 Clara,U,Ireland
 Bronislaus,M,Poland
 Feliksa,F, Poland
 Hendricus,M, Netherlands
 Yolanda,U,Ireland
 Una,U,Ireland
-Irena,F, Lublin
+Irena,F, Poland
 Antonius,M,Poland
 Cornelis,M, Netherlands
 Joannes,M, Netherlands
@@ -10458,7 +10402,7 @@ Agnieszka,F, Poland
 Anna,F, Netherlands
 Zofia,F, Poland
 Hendrikus,M, Netherlands
-Helena,F, Lublin
+Helena,F, Poland
 Bronislava,F,Poland
 Stephania,F,Poland
 Johannes,M, Netherlands
@@ -10521,7 +10465,7 @@ Leendert,M, Netherlands
 Winifred,U,Ireland
 Johan,M, Netherlands
 Petronella,F, Netherlands
-Kazimiera,F, Lublin
+Kazimiera,F, Poland
 Catharina,F,Poland
 Jannigje,F, Netherlands
 Stephania,F,Poland
@@ -10531,10 +10475,10 @@ Michael,U,Ireland
 Hendrik,M, Netherlands
 Wilhelmina,F, Netherlands
 Leendert,M, Netherlands
-Janina,F, Lublin
+Janina,F, Poland
 Kate,U,Ireland
 Louis,M, Netherlands
-Bogdan,M, Lublin
+Bogdan,M, Poland
 Adriaantje,F, Netherlands
 Stanisław,M, Poland
 Elizabeth,F, Netherlands
@@ -10550,7 +10494,7 @@ Adriaan,M, Netherlands
 Jan,M, Poland
 Johan,M, Netherlands
 Hendrika,F, Netherlands
-Zdzisław,M, Lublin
+Zdzisław,M, Poland
 Marrigje,F, Netherlands
 James,U,Ireland
 Patrick,U,Ireland
@@ -10572,7 +10516,7 @@ Hendrik,M, Netherlands
 Bernard,U,Ireland
 Peter,U,Ireland
 Leontyna,F, Poland
-Henryk,M, Lublin
+Henryk,M, Poland
 Arie,M, Netherlands
 Johannes,M, Netherlands
 Julianna,F,Poland
@@ -10663,7 +10607,7 @@ Franciscus,M,Poland
 Elisabeth,F, Netherlands
 Dirk,M, Netherlands
 Anna,F,Poland
-Stanisława,F, Lublin
+Stanisława,F, Poland
 Cornelia,F, Netherlands
 Isabella,U,Ireland
 Cecily,U,Ireland
@@ -10675,7 +10619,7 @@ Adriana,F, Netherlands
 Arij,M, Netherlands
 Apollonia,F,Poland
 Jeltje,F, Netherlands
-Marianna,F, Lublin
+Marianna,F, Poland
 James,U,Ireland
 Elizabeth,F, Netherlands
 Mary,U,Ireland
@@ -10723,8 +10667,8 @@ Laurentius,M,Poland
 Leendert,M, Netherlands
 Johannes,M, Netherlands
 Jan,M, Netherlands
-Stanisława,F, Lublin
-Zofja,F, Lublin
+Stanisława,F, Poland
+Zofja,F, Poland
 Maria,F, Netherlands
 Stanislaus,M,Poland
 Antonia,F, Netherlands
@@ -10824,7 +10768,6 @@ Johanna,F, Netherlands
 Rosina,U,Ireland
 Pleuntje,F, Netherlands
 Louwerina,F, Netherlands
-,U, Poland
 Jan,M, Poland
 Dirk,M, Netherlands
 Cornelia,F, Netherlands
@@ -10836,7 +10779,6 @@ Nelletje,F, Netherlands
 Elizabeth,U,Ireland
 J�zefa,F, Poland
 Peter,U,Ireland
-*Y,U,Ireland
 Jacoba,F, Netherlands
 Stanisław,M, Poland
 Adam,M, Poland
@@ -10880,7 +10822,7 @@ Margaret,U,Ireland
 Hendrikus,M, Netherlands
 David,U,Ireland
 Stanisław,M, Poland
-Jadwiga,F, Lublin
+Jadwiga,F, Poland
 Johanna,F, Netherlands
 Thomas,U,Ireland
 Josepha,F,Poland
@@ -10992,7 +10934,6 @@ Joannes,M,Poland
 Fokje,F, Netherlands
 Reinhold,M, Netherlands
 Albertus,M, Netherlands
-,U, Lublin
 Gerrit,M, Netherlands
 Wilhelmina,F, Netherlands
 Willem,M, Netherlands
@@ -11052,7 +10993,7 @@ Bastiaan,M, Netherlands
 Evert,M, Netherlands
 Cornelis,M, Netherlands
 Johanna,F, Netherlands
-Zofja,F, Lublin
+Zofja,F, Poland
 Maria,F, Netherlands
 William,U,Ireland
 Kaatje,F, Netherlands
@@ -11063,7 +11004,7 @@ Lena,F, Netherlands
 Maria,F, Netherlands
 Queenie,U,Ireland
 Antonina,F, Poland
-Tadeusz,M, Lublin
+Tadeusz,M, Poland
 Stanislaus,M,Poland
 Maria,F, Netherlands
 Stanisław,M, Poland
@@ -11129,7 +11070,7 @@ Wilhelmus,M, Netherlands
 Agatha,F, Netherlands
 Patrick,U,Ireland
 Hugh,U,Ireland
-Eligiusz,M, Lublin
+Eligiusz,M, Poland
 Christina,U,Ireland
 Angela,F,Poland
 Heva,F,Poland
@@ -11181,7 +11122,6 @@ Stanisława,F, Poland
 Anna,F,Poland
 Alfred,U,Ireland
 Johannes,M, Netherlands
-,U, Poland
 Jane,U,Ireland
 Szymon,M, Poland
 Feliks,M, Poland
@@ -11194,7 +11134,6 @@ Pelgrom,M, Netherlands
 Sophia,F,Poland
 Maria,F, Netherlands
 Sara,F, Netherlands
-,U, Poland
 Franciscus,M, Netherlands
 Jan,M, Netherlands
 Johanna,F, Netherlands
@@ -11303,10 +11242,9 @@ Maria,F, Netherlands
 Pieter,M, Netherlands
 Willemina,F, Netherlands
 Anna,F, Netherlands
-,U, Poland
 Queenie,U,Ireland
 Pietje,F, Netherlands
-Eugenia,F, Lublin
+Eugenia,F, Poland
 Michael,M,Poland
 Engelbert,M, Netherlands
 Willem,M, Netherlands
@@ -11329,7 +11267,7 @@ Plonia,F, Netherlands
 Anna,F, Netherlands
 Geertrui,F, Netherlands
 Antonius,M, Netherlands
-Aniela,F, Lublin
+Aniela,F, Poland
 George,U,Ireland
 Johanna,F, Netherlands
 Bohdan,M, Poland
@@ -11358,7 +11296,7 @@ Trijntje,F, Netherlands
 Thomas,U,Ireland
 Mateusz,M, Poland
 Margaret,U,Ireland
-Augustyn,M, Lublin
+Augustyn,M, Poland
 Sophia,F,Poland
 Andrzej,M, Poland
 Willemina,F, Netherlands
@@ -11465,7 +11403,6 @@ Klaas,M, Netherlands
 Maria,F, Netherlands
 Pieternella,F, Netherlands
 Adriana,F, Netherlands
-,U, Poland
 Stanisław,M, Poland
 Cornelis,M, Netherlands
 Teresa,U,Ireland
@@ -11487,7 +11424,7 @@ Derkien,F, Netherlands
 Krina,F, Netherlands
 Alida,F, Netherlands
 Józef,M, Poland
-Irena,F, Lublin
+Irena,F, Poland
 Michael,U,Ireland
 Helena,F, Poland
 Dirk,M, Netherlands
@@ -11583,7 +11520,6 @@ J�zef,M, Poland
 Joannes,M,Poland
 Mary,U,Ireland
 Annechien,F, Netherlands
-,U, Poland
 Johannes,M, Netherlands
 Cornelia,F, Netherlands
 Casper,M, Netherlands
@@ -11650,7 +11586,7 @@ Plonia,F, Netherlands
 William,U,Ireland
 Michael,U,Ireland
 Mary,U,Ireland
-Maryanna,F, Lublin
+Maryanna,F, Poland
 Gerrit,M, Netherlands
 Maria,F,Poland
 Agatha,F, Netherlands
@@ -11696,7 +11632,6 @@ Adriana,F, Netherlands
 Simon,M, Netherlands
 Sije,M, Netherlands
 Andrzej,M, Poland
-,U, Poland
 Jan,M, Netherlands
 Mary,U,Ireland
 Joannes,M,Poland
@@ -11710,7 +11645,6 @@ Fransina,F, Netherlands
 Fop,M, Netherlands
 Celestina,F, Netherlands
 Maria,U,Ireland
-,U, Poland
 Neeltje,F, Netherlands
 Ida,F, Netherlands
 Marinus,M, Netherlands
@@ -11730,7 +11664,7 @@ Johanna,F, Netherlands
 Joanna,F,Poland
 Donald,U,Ireland
 Maria,F, Netherlands
-Marya,F, Lublin
+Marya,F, Poland
 Mary,U,Ireland
 Meijer,M, Netherlands
 Peter,M, Netherlands
@@ -11755,7 +11689,7 @@ Geertruida,F, Netherlands
 Maria,F, Netherlands
 Marianna,F, Poland
 Maria,F, Netherlands
-Janina,F, Lublin
+Janina,F, Poland
 Abraham,M, Netherlands
 Klaasje,F, Netherlands
 Theodora,F, Netherlands
@@ -11783,7 +11717,6 @@ Cornelis,M, Netherlands
 Karol,M, Poland
 Bee,U,Ireland
 Mary,U,Ireland
-,U, Poland
 Henry,U,Ireland
 Cornelia,F, Netherlands
 Eugenius,M,Poland
@@ -11875,7 +11808,6 @@ Volkje,F, Netherlands
 Johanna,F, Netherlands
 Jacobus,M, Netherlands
 Pieter,M, Netherlands
-,U, Poland
 Maria,F, Netherlands
 Petronella,F, Netherlands
 Christiaan,M, Netherlands
@@ -11906,7 +11838,7 @@ Carolus,M,Poland
 Francina,F, Netherlands
 Julia,F, Poland
 Irwin,U,Ireland
-Karolina,F, Lublin
+Karolina,F, Poland
 Frederik,M, Netherlands
 Antoni,M, Poland
 Henry,U,Ireland
@@ -11946,7 +11878,7 @@ Geertruida,F, Netherlands
 Antonina,F,Poland
 Bernardus,M, Netherlands
 Catharina,F, Netherlands
-Stefania,F, Lublin
+Stefania,F, Poland
 Jannigje,F, Netherlands
 Franciszek,M, Poland
 Franciszka,F, Poland
@@ -11956,7 +11888,7 @@ Andrew,U,Ireland
 Christopher,U,Ireland
 Johannes,M, Netherlands
 Salomon,M, Netherlands
-Jerzy,M, Lublin
+Jerzy,M, Poland
 Charles,U,Ireland
 Jannetje,F, Netherlands
 Mozes,M, Netherlands
@@ -12016,7 +11948,7 @@ Patrick,U,Ireland
 Magdalena,F, Netherlands
 Daisy,U,Ireland
 Martinus,M,Poland
-Henryk,M, Lublin
+Henryk,M, Poland
 Dirk,M, Netherlands
 Anna,F, Netherlands
 Petrus,M,Poland
@@ -12076,7 +12008,7 @@ Pieter,M, Netherlands
 Catharina,F, Netherlands
 Margje,F, Netherlands
 Nicolaas,M, Netherlands
-Helena,F, Lublin
+Helena,F, Poland
 George,U,Ireland
 Maria,F, Netherlands
 Hendrik,M, Netherlands
@@ -12094,7 +12026,7 @@ Bernard,U,Ireland
 Stanisław,M, Poland
 Christina,U,Ireland
 Robert,U,Ireland
-Stanisława,F, Lublin
+Stanisława,F, Poland
 William,U,Ireland
 Johanna,F, Netherlands
 Wilhelmina,U,Ireland
@@ -12222,7 +12154,6 @@ Hannah,U,Ireland
 Lena,F, Netherlands
 Dirk,M, Netherlands
 Maartje,F, Netherlands
-,U, Poland
 Ethel,U,Ireland
 George,U,Ireland
 Gerbrand,M, Netherlands
@@ -12260,7 +12191,7 @@ Catharina,F, Netherlands
 Magdalena,F,Poland
 Margaretha,F, Netherlands
 Jacoba,F, Netherlands
-Tadeusz,M, Lublin
+Tadeusz,M, Poland
 Cornelia,F, Netherlands
 Hendrikus,M, Netherlands
 Petrus,M,Poland
@@ -12279,7 +12210,7 @@ Joannes,M,Poland
 Helena,F, Poland
 Eduardus,M,Poland
 Stanislaus,M,Poland
-Leokadia,F, Lublin
+Leokadia,F, Poland
 Marianna,F, Poland
 Jan,M, Netherlands
 Maria,M,Poland
@@ -12344,7 +12275,7 @@ Ludovicus,M,Poland
 Hendrik,M, Netherlands
 Quinn,U,Ireland
 Marianna,F, Poland
-Franciszek,M, Lublin
+Franciszek,M, Poland
 Elizabeth,F, Netherlands
 Joost,M, Netherlands
 Hendrik,M, Netherlands
@@ -12386,7 +12317,7 @@ Esther,U,Ireland
 Dorothea,F, Netherlands
 Thomas,U,Ireland
 Jacob,M, Netherlands
-Przemysław,M, Lublin
+Przemysław,M, Poland
 Gerrit,M, Netherlands
 Elisabeth,F, Netherlands
 Cornelis,M, Netherlands

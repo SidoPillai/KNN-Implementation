@@ -8,6 +8,15 @@ public class Neighbor implements Comparable<Neighbor>{
 	Double diceValue;
 	String name;
 	String country;
+	/**
+	 * 
+	 * 
+	 * @param name
+	 * @param diceValue
+	 * @param country
+	 * 		  Constructor
+	 * 
+	 **/
 	
 	Neighbor(String name, double diceValue, String country){
 		this.name=name;
@@ -15,6 +24,13 @@ public class Neighbor implements Comparable<Neighbor>{
 		this.country=country;
 		
 	}
+	/**
+	 * 
+	 * 
+	 * @param o
+	 * @return nearestNeighbors    
+	 * Comparing a neighbor with another neighbor
+	 **/
 	
 	@Override
 	public int compareTo(Neighbor o) {

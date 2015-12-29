@@ -22,18 +22,35 @@ public class Input {
 		nearestNeighbors = new Neighbor[k];
 
 	}
+	/**
+	 * @param firstName
+	 *            Setter function for result row
+	 **/
 
 	public void setResult(String result) {
 		this.result = result;
 	}
+	/**
+	 * @param r
+	 * 
+	 *            Set each row
+	 **/
 
 	public void setRow(Row r) {
 		this.row = r;
 	}
+	/**
+	 * 
+	 *            Get each result
+	 **/
 	
 	public String getResult() {
 		return this.result;
 	}
+	/**
+	 * 
+	 *            Get each result
+	 **/
 
 	public String[] getRow() {
 		String [] values = new String[3];
@@ -42,9 +59,19 @@ public class Input {
 		values[2] = this.row.gender;
 		return values;
 	}
+	/**
+	 * 
+	 * 
+	 * @param diceValue
+	 * @param trainingName
+	 * @param country
+	 * 
+	 * 
+	 *            make the list of neighbors 
+	 * 
+	 * 
+	 **/
 	
-
-	//make the list of neighbors 
 	public void add(double diceValue, String trainingName, String country) {
 
 		Neighbor neighbors = new Neighbor(trainingName, diceValue, country);
@@ -52,15 +79,28 @@ public class Input {
 		listOfNeighbors.add(neighbors);
 
 	}
-
-	//find all nearest neighbors
+	/**
+	 * 
+	 *            find all nearest neighbors
+	 * 
+	 * 
+	 **/
+	
 	public void findNearestNeighbors() {
 
 		nearestNeighbors = nearestNeighbors(listOfNeighbors, k);
 
 	}
-
-	//return the set of nearest neighbors
+	/**
+	 * 
+	 * 
+	 * @param listOfNeighbors
+	 * @param k
+	 * @return nearestNeighbors    
+	 * 		   return the set of nearest neighbors
+	 * 
+	 **/
+	
 	private Neighbor[] nearestNeighbors(ArrayList<Neighbor> listOfNeighbors,
 			int k) {
 		Collections.sort(listOfNeighbors);
@@ -73,8 +113,18 @@ public class Input {
 
 		return nearestNeighbors;
 	}
-	
-	//find class label
+	/**
+	 * 
+	 * 
+	 * @param country 
+	 
+	 * @return indexCountry    
+	 * 
+	 *            find class label
+	 * 
+	 * 
+	 **/
+
 	public int findNeighbor(String[] country) {
 		int indexCountry;
 		indexCountry = votingCountry(nearestNeighbors, country, k);
@@ -82,8 +132,20 @@ public class Input {
 		return indexCountry;
 
 	}
-
-	// majority voting
+	
+	/**
+	 * 
+	 * 
+	 * @param nearestNeighbors
+	 * @param country
+	 * @param k
+	 * 
+	 * @return indexCountry     
+	 * 			majority voting among the neighbors
+	 * 
+	 * 
+	 **/
+	
 	private int votingCountry(Neighbor[] nearestNeighbors, String[] country,
 			int k) {
 
@@ -112,9 +174,17 @@ public class Input {
 		indexCountry = computeHighestVote(countCountry);
 		return indexCountry;
 	}
-
-	//compute highest vote
-	// random occurrence if equal
+	
+	/**
+	 * 
+	 * 
+	 * @param countCountry
+	 * @return index    
+	 * 			 Compute highest vote
+	 * 			  random occurrence if equal
+	 * 
+	 **/	 
+	
 	private int computeHighestVote(int[] countCountry) {
 		int index = -1;
 		Random random = new Random();
@@ -133,36 +203,7 @@ public class Input {
 		}
 
 		return index;
-		// TODO Auto-generated method stub
-		/*
-		 * String highestVote=""; Random random=new Random();
-		 * 
-		 * if(countIreland>countPoland){ if(countIreland>countNetherlands){
-		 * highestVote="Ireland"; } else if(countNetherlands>countPoland){
-		 * highestVote="Netherlands"; }else { highestVote="Poland"; }
-		 * 
-		 * }else if(countPoland>countNetherlands){ highestVote="Poland";
-		 * 
-		 * }else if(countNetherlands>countPoland){ highestVote="Netherlands";
-		 * }else { if(countNetherlands==countPoland){ int select
-		 * =random.nextInt(2); if(select==1){ highestVote="Netherlands"; }else{
-		 * highestVote="Poland"; }
-		 * 
-		 * }else if(countIreland==countPoland){ int select =random.nextInt(2);
-		 * if(select==1){ highestVote="Ireland"; }else{ highestVote="Poland"; }
-		 * 
-		 * 
-		 * }else if(countNetherlands==countIreland){ int select
-		 * =random.nextInt(2); if(select==1){ highestVote="Netherlands"; }else{
-		 * highestVote="Ireland"; }
-		 * 
-		 * }
-		 * 
-		 * }
-		 * 
-		 * 
-		 * return highestVote;
-		 */
+		
 	}
 
 }

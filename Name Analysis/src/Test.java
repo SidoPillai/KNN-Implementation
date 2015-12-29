@@ -12,6 +12,14 @@ import java.util.Scanner;
 
 
 public class Test {
+	/**
+	 * 
+	 * 
+	 * @param filename
+	 * @return rows    
+	 * 		   read each file and return a row
+	 * 
+	 **/
 
 	private ArrayList<Row> readFile(String filename) throws FileNotFoundException{
 
@@ -28,29 +36,32 @@ public class Test {
 
 		return rows;
 	}
-
+	/**
+	 * 
+	 * 
+	 * @param test
+	 * @param training
+	 * @param country
+	 * @return index of class label in country[]   
+	 * 		   run a test sample with the training dataset
+	 * 
+	 **/
 
 	public int runTest(Input test, ArrayList<Row> training, String[] country){
 		int count=0;
 
 		for(Row r : training){
-
 			count++;
-			if(count==1000){
-				break;
-			}
+			
+//			if(count==200){
+//				break;
+//			}
 			System.out.println("here");
 			double diceValue=SimilarityMeasure.computeTrigrams(r.name,test.targetName);
 			System.out.println("Dice value is computed");
 			test.add(diceValue,r.name,r.country);
 			System.out.println("Name " + r.name);
 			System.out.println("Test name " + test.targetName);
-			//			try {
-			//				Thread.sleep(1000);
-			//			} catch (InterruptedException e) {
-			//				// TODO Auto-generated catch block
-			//				e.printStackTrace();
-			//			}
 		}
 
 
@@ -58,6 +69,14 @@ public class Test {
 		System.out.println("Found nearest neighbors");
 		return test.findNeighbor(country);
 	}
+	/**
+	 * 
+	 * 
+	 * @param result
+	 * @param filename 
+	 * 		   write the results into a new file
+	 * 
+	 **/
 
 	private void writeResult(ArrayList<Input> result, String filename) throws IOException{
 
@@ -80,41 +99,34 @@ public class Test {
 		out.close();
 
 	}
+	/**
+	 * @param k   
+	 * 		   predict the country or origin depending on the value of k
+	 * 
+	 **/
 
 	public void predict(int k) throws IOException{
 		//values
-		String testCountry="";
-		String trainingName="Nate";
-		String trainingCountry="Ireland";
-		String votedCountry="";
-		
+		//list of countries considered
 		String[] country={"Ireland","Netherlands","Poland"};
 
 
 		File f = new File("train.txt");
 		BufferedWriter bw = new BufferedWriter(new FileWriter(f));
 
-		//algo starts
+		// Test and training datasets input given here
 		ArrayList<Row> testData= readFile("testfirst.csv");
-		ArrayList<Row> trainigData= readFile("trainfirst.csv");
+		ArrayList<Row> trainingData= readFile("trainfirst.csv");
 
 		for (Row r : testData) {
 			System.out.println(r.name);
 		}
 
-		for (Row r : trainigData) {
+		for (Row r : trainingData) {
 			System.out.println(r.name);
 		}
 
-		System.out.println("Size of test data " + testData.size());
-		System.out.println("Size of train data " + trainigData.size());
 
-		//		try {
-		//			Thread.sleep(10000);
-		//		} catch (InterruptedException e) {
-		//			// TODO Auto-generated catch block
-		//			e.printStackTrace();
-		//		}
 
 		ArrayList<Input> result = new ArrayList<Input>();
 
@@ -123,13 +135,13 @@ public class Test {
 		for(Row r : testData) {
 			count++;
 
-			if(count==1000){
-				break;
-			}
+//			if(count==200){
+//				break;
+//			}
 
 			Input test = new Input(r.name,k);
 			test.setRow(r);
-			int index = runTest(test, trainigData, country);
+			int index = runTest(test, trainingData, country);
 			System.out.println("Found country");
 			test.setResult(country[index]);
 			result.add(test);
@@ -149,28 +161,23 @@ public class Test {
 
 		System.out.println("--------done learning-------");
 
-		// read from the csv sequentially
-
-		// Create a list of Input
-
-		// Keep adding in the list.
-
-		// Data is trained once all the input data is traversed
-
-		// train with 26 k 
-
-
-
 
 	}
+	/**
+	 * main method
+	 * 
+	 **/
 
 	public static void main(String[] args) throws IOException {
-		FileWriter file = new FileWriter("analysis.csv",true);
+		FileWriter file = new FileWriter("analysisFirst.csv",true);
 		//file.write("trainingsize,time,k,accuracy");
-		//file.write("\n");
+		//run the first time for the first row;commented for all the other runs
+
 
 		long start = System.currentTimeMillis();
-		int k=1;
+		
+		//change the value of k manually
+		int k=5;
 		Test t = new Test();
 		t.predict(k);
 		long finish=(System.currentTimeMillis() - start)/1000 ;
@@ -179,6 +186,7 @@ public class Test {
 		int expected=0;
 		int total=0;;
 
+		//file to write all the results for each run
 		Scanner sc = new Scanner(new File("result.csv"));
 		sc.nextLine();
 
@@ -190,8 +198,10 @@ public class Test {
 			total++;
 
 		}
+		//compute the accuracy by comparing the predicted and expected country
+		//and write to the file 
 		accuracy=(expected/(double)total) * 100 ;
-		file.write("1000");
+		file.write("200");
 		file.write(",");
 		file.write(String.valueOf(finish));
 		file.write(",");
